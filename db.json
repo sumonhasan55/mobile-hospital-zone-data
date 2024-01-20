@@ -5,7 +5,8 @@
       "details": "Professional screen replacement for various mobile models.",
       "imageURL": "https://i.ibb.co/fpCCWBV/mobile-repair-1.jpg",
       "description": "We specialize in high-quality screen replacements using genuine parts.",
-      "price": "$100",
+      "price": "100",
+      "quantity": 1,
       "reviews": [
         { "username": "Customer1", "comment": "Excellent service, my screen looks brand new!", "rating": 5 },
         { "username": "Customer2", "comment": "Quick turnaround and reasonable pricing.", "rating": 4 }
@@ -16,7 +17,8 @@
       "details": "Replace your mobile battery with a new and efficient one.",
       "imageURL": "https://i.ibb.co/vqF4NXw/mobile-repair-1.png",
       "description": "Extend the life of your phone with our battery replacement service.",
-      "price": "$50",
+      "price": "50",
+      "quantity": 1,
       "reviews": [
         { "username": "Customer3", "comment": "My phone's battery life has significantly improved!", "rating": 5 },
         { "username": "Customer4", "comment": "Prompt service, and my phone lasts much longer now.", "rating": 4 }
@@ -27,7 +29,8 @@
       "details": "Fix issues with your mobile camera, including lens replacement.",
       "imageURL": "https://i.ibb.co/dW4jLKc/mobile-repair-2.jpg",
       "description": "Capture moments clearly with our camera repair service.",
-      "price": "$80",
+      "price": "80",
+      "quantity": 1,
       "reviews": [
         { "username": "Customer5", "comment": "Great job fixing my camera, the pictures are sharp again!", "rating": 5 },
         { "username": "Customer6", "comment": "Affordable and effective camera repair service.", "rating": 4 }
@@ -38,7 +41,8 @@
       "details": "Fix issues related to your mobile's charging port.",
       "imageURL": "https://i.ibb.co/L89Qb5B/mobile-repair-2.png",
       "description": "Ensure a reliable and quick charging experience with our repair service.",
-      "price": "$60",
+      "price": "60",
+      "quantity": 1,
       "reviews": [
         { "username": "Customer7", "comment": "My phone charges like new again! Excellent service.", "rating": 5 },
         { "username": "Customer8", "comment": "Fast and affordable charging port repair.", "rating": 4 }
@@ -49,7 +53,8 @@
       "details": "Specialized service to repair water-damaged mobile devices.",
       "imageURL": "https://i.ibb.co/rb3hzKy/mobile-repair-3.jpg",
       "description": "Revive your water-damaged phone with our professional restoration service.",
-      "price": "$120",
+      "price": "120",
+      "quantity": 1,
       "reviews": [
         { "username": "Customer9", "comment": "Thought my phone was gone, but they brought it back to life!", "rating": 5 },
         { "username": "Customer10", "comment": "Impressive water damage repair. Highly recommended.", "rating": 4 }
@@ -60,7 +65,8 @@
       "details": "Resolve software-related issues and optimize your mobile's performance.",
       "imageURL": "https://i.ibb.co/CvPwPrx/mobile-repair-5.jpg",
       "description": "Smoothly run your favorite apps with our software troubleshooting service.",
-      "price": "$40",
+      "price": "40",
+      "quantity": 1,
       "reviews": [
         { "username": "Customer11", "comment": "Fixed my software issues quickly. Great service.", "rating": 5 },
         { "username": "Customer12", "comment": "Affordable software troubleshooting. Happy with the results.", "rating": 4 }
@@ -71,7 +77,8 @@
       "details": "Replace malfunctioning speakers for crystal-clear audio.",
       "imageURL": "https://i.ibb.co/SJtqnWZ/mobile-repair-6.jpg",
       "description": "Enjoy your music and calls without any audio issues with our speaker replacement service.",
-      "price": "$55",
+      "price": "55",
+      "quantity": 1,
       "reviews": [
         { "username": "Customer13", "comment": "Sound quality is amazing after the speaker replacement!", "rating": 5 },
         { "username": "Customer14", "comment": "Quick and professional service. Highly recommended.", "rating": 4 }
@@ -82,7 +89,8 @@
       "details": "Recover lost data from your mobile device.",
       "imageURL": "https://i.ibb.co/zxbWXZF/mobile-repair-7.jpg",
       "description": "Retrieve important photos, documents, and files with our reliable data recovery service.",
-      "price": "$90",
+      "price": "90",
+      "quantity": 1,
       "reviews": [
         { "username": "Customer15", "comment": "Thought I lost everything, but they recovered it all! Thank you!", "rating": 5 },
         { "username": "Customer16", "comment": "Efficient data recovery. Saved me a lot of trouble.", "rating": 4 }
@@ -93,7 +101,8 @@
       "details": "Secure your mobile device by removing viruses and malware.",
       "imageURL": "https://i.ibb.co/PZZ771B/mobile-repair-8.jpg",
       "description": "Protect your personal information with our thorough virus and malware removal service.",
-      "price": "$50",
+      "price": "50",
+      "quantity": 1,
       "reviews": [
         { "username": "Customer17", "comment": "My phone is faster and safer after the removal. Great job!", "rating": 5 },
         { "username": "Customer18", "comment": "Affordable and effective virus removal. Happy customer.", "rating": 4 }
@@ -104,7 +113,8 @@
       "details": "Fix issues with your mobile's microphone for clear voice calls.",
       "imageURL": "https://i.ibb.co/ZYv58r0/mobile-repair-9.jpg",
       "description": "Ensure your voice is heard loud and clear with our professional microphone repair service.",
-      "price": "$45",
+      "price": "45",
+      "quantity": 1,
       "reviews": [
         { "username": "Customer19", "comment": "My calls are crystal clear now. Excellent service!", "rating": 5 },
         { "username": "Customer20", "comment": "Quick and reliable microphone repair. Very satisfied.", "rating": 4 }
@@ -115,7 +125,8 @@
       "details": "Replace malfunctioning buttons for a seamless user experience.",
       "imageURL": "https://i.ibb.co/Pz95ptd/mobile-repair-10.jpg",
       "description": "Enjoy smooth navigation with our button replacement service for your mobile device.",
-      "price": "$30",
+      "price": "30",
+      "quantity": 1,
       "reviews": [
         { "username": "Customer21", "comment": "Buttons feel brand new after the replacement. Impressive!", "rating": 5 },
         { "username": "Customer22", "comment": "Affordable button replacement. Great service overall.", "rating": 4 }
@@ -126,7 +137,8 @@
       "details": "Resolve network-related problems and ensure a stable connection.",
       "imageURL": "https://i.ibb.co/Xkhh7vJ/mobile-repair-11.jpg",
       "description": "Stay connected with our network issues troubleshooting service for your mobile device.",
-      "price": "$35",
+      "price": "35",
+      "quantity": 1,
       "reviews": [
         { "username": "Customer23", "comment": "Fixed my network issues quickly. Professional service.", "rating": 5 },
         { "username": "Customer24", "comment": "Efficient network troubleshooting. Would recommend.", "rating": 4 }
@@ -137,7 +149,8 @@
       "details": "Install new accessories such as cases, screen protectors, and more.",
       "imageURL": "https://i.ibb.co/Kwkr23V/mobile-repair-12.jpg",
       "description": "Enhance your mobile device with our accessory installation service.",
-      "price": "$20",
+      "price": "20",
+      "quantity": 1,
       "reviews": [
         { "username": "Customer25", "comment": "Love the new accessories! Installation was quick and easy.", "rating": 5 },
         { "username": "Customer26", "comment": "Affordable accessory installation. Happy with the results.", "rating": 4 }
@@ -148,7 +161,8 @@
       "details": "Keep your mobile device up-to-date with the latest software releases.",
       "imageURL": "https://i.ibb.co/0r9f7G2/mobile-repair-13.jpg",
       "description": "Ensure your device runs smoothly by updating to the latest software version with our service.",
-      "price": "$25",
+      "price": "25",
+      "quantity": 1,
       "reviews": [
         { "username": "Customer27", "comment": "Updated my software without any issues. Fast and reliable service.", "rating": 5 },
         { "username": "Customer28", "comment": "Efficient software update. Happy with the results.", "rating": 4 }
@@ -159,7 +173,8 @@
       "details": "Protect your screen with a high-quality screen protector installation.",
       "imageURL": "https://i.ibb.co/bBS5sRB/mobile-repair-14.jpg",
       "description": "Prevent scratches and cracks with our precise and bubble-free screen protector installation.",
-      "price": "$15",
+      "price": "15",
+      "quantity": 1,
       "reviews": [
         { "username": "Customer29", "comment": "Screen protector fits perfectly. Great attention to detail.", "rating": 5 },
         { "username": "Customer30", "comment": "Affordable screen protector installation. Highly recommended.", "rating": 4 }
@@ -170,7 +185,8 @@
       "details": "Identify and address issues with our comprehensive mobile diagnostic service.",
       "imageURL": "https://i.ibb.co/CwffSQ5/mobile-repair-15.jpg",
       "description": "Get a detailed analysis of your device's performance and potential issues.",
-      "price": "$40",
+      "price": "40",
+      "quantity": 1,
       "reviews": [
         { "username": "Customer31", "comment": "Thorough diagnostic service. Helped me understand my device better.", "rating": 5 },
         { "username": "Customer32", "comment": "Quick and accurate diagnosis. Satisfied with the service.", "rating": 4 }
@@ -181,7 +197,8 @@
     "details": "Effortlessly transfer data from your old device to a new one.",
     "imageURL": "https://i.ibb.co/K7kwQ1Q/mobile-repair-16.jpg",
     "description": "Upgrade your device without losing any important data with our seamless transfer service.",
-    "price": "$30",
+    "price": "30",
+    "quantity": 1,
     "reviews": [
       { "username": "Customer33", "comment": "Transferred all my data quickly and securely. Great service!", "rating": 5 },
       { "username": "Customer34", "comment": "Efficient data transfer service. Happy with the results.", "rating": 4 }
@@ -192,7 +209,8 @@
     "details": "Personalize your device with custom themes, wallpapers, and settings.",
     "imageURL": "https://i.ibb.co/CKrDMnD/mobile-repair-17.jpg",
     "description": "Make your device uniquely yours with our expert customization services.",
-    "price": "$20",
+    "price": "20",
+    "quantity": 1,
     "reviews": [
       { "username": "Customer35", "comment": "Love the new look of my phone after customization. Great job!", "rating": 5 },
       { "username": "Customer36", "comment": "Affordable customization service. Highly recommended.", "rating": 4 }
@@ -203,7 +221,8 @@
     "details": "Explore and purchase a variety of high-quality mobile accessories.",
     "imageURL": "https://i.ibb.co/0fMjTCy/mobile-repair-18.jpg",
     "description": "Enhance your device with our selection of premium cases, chargers, and more.",
-    "price": "Varies",
+    "price": "455",
+    "quantity": 1,
     "reviews": [
       { "username": "Customer37", "comment": "Great collection of accessories. Found exactly what I needed.", "rating": 5 },
       { "username": "Customer38", "comment": "Affordable and durable accessories. Satisfied customer.", "rating": 4 }
@@ -214,7 +233,8 @@
     "details": "Ensure the security of your device with a comprehensive security checkup.",
     "imageURL": "https://i.ibb.co/9tbxcZQ/mobile-repair-19.jpg",
     "description": "Protect your personal information with our thorough security assessment.",
-    "price": "$35",
+    "price": "35",
+    "quantity": 1,
     "reviews": [
       { "username": "Customer39", "comment": "Helped me secure my device and data. Excellent service!", "rating": 5 },
       { "username": "Customer40", "comment": "Informative security checkup. Happy with the results.", "rating": 4 }
@@ -224,7 +244,8 @@
   "services": [
       {
             "name": "Display Failure",
-            "price": "$50",
+            "price": "50",
+            "quantity": 1,
             "imageURL": "https://i.ibb.co/CwD9YHt/display-failour.jpg",
             "rating": 4.5,
             "reviews": 120,
@@ -248,7 +269,8 @@
           },
           {
             "name": "Leiquid Damage",
-            "price": "$65",
+            "price": "65",
+            "quantity": 1,
             "imageURL": "https://i.ibb.co/Zmygq3t/lequide-damaged.jpg",
             "rating": 4.8,
             "reviews": 90,
@@ -272,7 +294,8 @@
           },
           {
             "name": "Charging Issues",
-            "price": "$55",
+            "price": "55",
+            "quantity": 1,
             "imageURL": "https://i.ibb.co/mFkmfmk/Charging-Issues.jpg",
             "rating": 4.3,
             "reviews": 150,
@@ -296,7 +319,8 @@
           },
           {
             "name": "Damaged Mobile",
-            "price": "$40",
+            "price": "40",
+            "quantity": 1,
             "imageURL": "https://i.ibb.co/8ddCCvs/Mobile-Repair-Services.jpg",
             "rating": 4.6,
             "reviews": 100,
@@ -320,7 +344,8 @@
           },
           {
             "name": "Power Issues",
-            "price": "$75",
+            "price": "75",
+            "quantity": 1,
             "imageURL": "https://i.ibb.co/m8YZbQr/Power-Issues.jpg",
             "rating": 4.9,
             "reviews": 200,
@@ -344,7 +369,8 @@
           },
           {
             "name": "Motherboard Replacement",
-            "price": "$48",
+            "price": "48",
+            "quantity": 1,
             "imageURL": "https://i.ibb.co/ZN5H13s/Motherboard-Replesment.jpg",
             "rating": 4.4,
             "reviews": 80,
@@ -368,7 +394,8 @@
           },
           {
             "name": "Speaker Replacement",
-            "price": "$55",
+            "price": "55",
+            "quantity": 1,
             "imageURL": "https://i.ibb.co/CwD9YHt/display-failour.jpg",
             "rating": 4.5,
             "reviews": 120,
@@ -392,7 +419,8 @@
           },
           {
             "name": "Camera Repair",
-            "price": "$60",
+            "price": "60",
+            "quantity": 1,
             "imageURL": "https://i.ibb.co/Zmygq3t/lequide-damaged.jpg",
             "rating": 4.8,
             "reviews": 90,
@@ -416,7 +444,8 @@
           },
           {
             "name": "Software Update",
-            "price": "$25",
+            "price": "25",
+            "quantity": 1,
             "imageURL": "https://i.ibb.co/mFkmfmk/Charging-Issues.jpg",
             "rating": 4.3,
             "reviews": 150,
@@ -440,7 +469,8 @@
           },
           {
             "name": "Screen Protector Installation",
-            "price": "$15",
+            "price": "15",
+            "quantity": 1,
             "imageURL": "https://i.ibb.co/8ddCCvs/Mobile-Repair-Services.jpg",
             "rating": 4.6,
             "reviews": 100,
